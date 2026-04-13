@@ -7,10 +7,10 @@
 
 ## Who I Am
 
-- **Name:** [YOUR NAME]
-- **Role:** [e.g., Software Engineer / Developer / Architect]
-- **Experience level:** [e.g., Mid-level, primarily backend; comfortable with Git and CLI tools]
-- **Current focus:** [e.g., setting up a new Windows dev environment, learning Node.js]
+- **Name:** Larry D. Collins Jr.
+- **Role:** Software Engineer
+- **Experience level:** Senior-level, full stack; comfortable with UI, Application, API, SQL, CI/CD, Git, and CLI tools
+- **Current focus:** Learning AI assistants and building professional best practices for using them effectively in software development and knowledge management
 
 ---
 
