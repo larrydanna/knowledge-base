@@ -125,6 +125,17 @@ All OS articles include the same `code --install-extension` commands. This list 
 | `ms-dotnettools.csdevkit` | C# dev kit (test runner, solution explorer) |
 | `eamodio.gitlens` | Git history and blame |
 | `PKief.material-icon-theme` | File icon theme |
+| `bierner.github-markdown-preview` | Full GitHub Flavored Markdown preview |
+
+### VS Code configuration (cross-platform)
+
+These apply identically on all OSes — do them once VS Code is installed, regardless of platform:
+
+| Topic | Article |
+|-------|---------|
+| Full GitHub Flavored Markdown preview (GFM, Mermaid, alerts, emoji) | [vscode-gfm-markdown-260413a.md](vscode-gfm-markdown-260413a.md) |
+| Set Markdown preview as the default view for `.md` files | [vscode-markdown-preview-default-260413a.md](vscode-markdown-preview-default-260413a.md) |
+| Keyboard shortcuts — UI, navigation, editing, Copilot, debugging | [vscode-keyboard-shortcuts-260413a.md](vscode-keyboard-shortcuts-260413a.md) |
 
 ---
 
