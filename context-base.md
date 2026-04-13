@@ -61,5 +61,8 @@ I maintain a knowledge base of technical notes at:
 
 > *(Update this section per session or when focus changes)*
 
-- [ ] [Active project or goal 1]
-- [ ] [Active project or goal 2]
+- [ ] Establishing best practices for using AI assistants in software development workflows
+- [ ] Building a personal knowledge base for technical notes and documentation
+- [ ] Learning how to use GitHub Copilot effectively in both VS Code and CLI contexts
+- [ ] Learning how to use Anthropic Claude effectively in both VS Code and CLI contexts
+- [ ] Exploring how AI can assist with code reviews, debugging, and learning new technologies
