@@ -141,6 +141,21 @@ Supported diagram types: `flowchart`, `sequenceDiagram`, `classDiagram`, `stateD
 
 GitHub's alert syntax renders colored callout blocks. As of mid-2024 these are rendered by the GitHub Styling extension:
 
+> [!NOTE]
+> Highlights information that users should take note of.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 ```markdown
 > [!NOTE]
 > Highlights information that users should take note of.

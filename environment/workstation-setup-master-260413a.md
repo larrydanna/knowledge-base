@@ -125,6 +125,7 @@ All OS articles include the same `code --install-extension` commands. This list 
 | `ms-dotnettools.csdevkit` | C# dev kit (test runner, solution explorer) |
 | `eamodio.gitlens` | Git history and blame |
 | `PKief.material-icon-theme` | File icon theme |
+| `kejun.markdown-alert` | Markdown alert authoring |
 | `bierner.github-markdown-preview` | Full GitHub Flavored Markdown preview |
 
 ### VS Code configuration (cross-platform)

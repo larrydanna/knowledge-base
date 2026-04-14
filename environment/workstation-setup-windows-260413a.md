@@ -127,6 +127,9 @@ code --install-extension ms-dotnettools.csdevkit
 code --install-extension eamodio.gitlens
 code --install-extension PKief.material-icon-theme
 
+# Markdown authoring
+code --install-extension kejun.markdown-alert
+
 # GitHub Flavored Markdown preview (see vscode-gfm-markdown-260413a.md)
 code --install-extension bierner.github-markdown-preview
 ```
