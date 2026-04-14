@@ -14,6 +14,7 @@ A personal living knowledge base for software development — designed to be use
 | `engineering/` | Software engineering entries: languages, patterns, frameworks |
 | `meta/CONVENTIONS.md` | How to write and name KB entries |
 | `meta/ASSISTANT.md` | How to work with AI assistants using this KB |
+| `meta/ORIGIN.md` | How this knowledge base came to be |
 | `prompts/` | Reusable AI prompt templates |
 
 ---
