@@ -25,12 +25,13 @@
 
 | File | Date | Tags | Summary |
 |------|------|------|---------|
+| [engineering/github-public-protected-repo-260414a.md](engineering/github-public-protected-repo-260414a.md) | 2026-04-14 | `github`, `repository`, `visibility`, `permissions`, `branch-protection` | How to make a GitHub repository public while keeping direct changes limited to your own account |
 | [engineering/vercel-labs-260414a.md](engineering/vercel-labs-260414a.md) | 2026-04-14 | `vercel`, `ai`, `frontend`, `open-source`, `web-frameworks` | Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.js), founders, and mission |
 
 ---
 
 ## Stats
 
-- Total entries: 12
-- Categories: environment (11), engineering (1)
+- Total entries: 13
+- Categories: environment (11), engineering (2)
 - Last updated: 2026-04-14
