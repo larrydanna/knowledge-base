@@ -23,12 +23,14 @@
 
 ## engineering
 
-*(no entries yet)*
+| File | Date | Tags | Summary |
+|------|------|------|---------|
+| [engineering/vercel-labs-260414a.md](engineering/vercel-labs-260414a.md) | 2026-04-14 | `vercel`, `ai`, `frontend`, `open-source`, `web-frameworks` | Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.js), founders, and mission |
 
 ---
 
 ## Stats
 
-- Total entries: 11
-- Categories: environment (11), engineering (0)
-- Last updated: 2026-04-13
+- Total entries: 12
+- Categories: environment (11), engineering (1)
+- Last updated: 2026-04-14
