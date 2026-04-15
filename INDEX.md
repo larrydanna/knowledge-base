@@ -27,11 +27,12 @@
 |------|------|------|---------|
 | [engineering/github-public-protected-repo-260414a.md](engineering/github-public-protected-repo-260414a.md) | 2026-04-14 | `github`, `repository`, `visibility`, `permissions`, `branch-protection` | How to make a GitHub repository public while keeping direct changes limited to your own account |
 | [engineering/vercel-labs-260414a.md](engineering/vercel-labs-260414a.md) | 2026-04-14 | `vercel`, `ai`, `frontend`, `open-source`, `web-frameworks` | Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.js), founders, and mission |
+| [engineering/cloudflare-partykit-260414a.md](engineering/cloudflare-partykit-260414a.md) | 2026-04-14 | `cloudflare`, `partykit`, `realtime`, `websockets`, `durable-objects` | What PartyKit is, how it maps to Cloudflare Durable Objects, and a safe starter pattern for adding realtime features to a personal website |
 
 ---
 
 ## Stats
 
-- Total entries: 13
-- Categories: environment (11), engineering (2)
+- Total entries: 14
+- Categories: environment (11), engineering (3)
 - Last updated: 2026-04-14
