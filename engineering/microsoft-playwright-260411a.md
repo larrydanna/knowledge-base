@@ -3,7 +3,7 @@
 **Date:** 2026-04-11  
 **Category:** engineering  
 **Tags:** `playwright`, `testing`, `automation`, `e2e`, `microsoft`, `browsers`  
-**Related:** [gstack-office-hours-skill-260417a.md](gstack-office-hours-skill-260417a.md)
+**Related:** [GStack Office Hours Skill: Structured Product Ideation](gstack-office-hours-skill-260417a.md)
 
 ---
 

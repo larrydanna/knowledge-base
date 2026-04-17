@@ -3,7 +3,7 @@
 **Date:** 2026-04-13  
 **Category:** environment  
 **Tags:** `vscode`, `markdown`, `gfm`, `preview`, `extensions`  
-**Related:** [vscode-markdown-preview-default-260413a.md](vscode-markdown-preview-default-260413a.md) · [vscode-keyboard-shortcuts-260413a.md](vscode-keyboard-shortcuts-260413a.md)
+**Related:** [VSCode: Set Markdown Preview as Default](vscode-markdown-preview-default-260413a.md) · [VSCode Keyboard Shortcuts — Workflow Reference](vscode-keyboard-shortcuts-260413a.md)
 
 ---
 

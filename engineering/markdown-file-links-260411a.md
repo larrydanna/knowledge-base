@@ -3,7 +3,7 @@
 **Date:** 2026-04-11  
 **Category:** engineering  
 **Tags:** `markdown`, `github`, `links`, `documentation`  
-**Related:** [vscode-gfm-markdown-260413a.md](../environment/vscode-gfm-markdown-260413a.md), [markdown-github-alerts-260411a.md](markdown-github-alerts-260411a.md)
+**Related:** [VSCode — GitHub Flavored Markdown Preview](../environment/vscode-gfm-markdown-260413a.md), [GitHub Markdown Alerts](markdown-github-alerts-260411a.md)
 
 ---
 

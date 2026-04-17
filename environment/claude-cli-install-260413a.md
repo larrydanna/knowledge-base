@@ -3,7 +3,7 @@
 **Date:** 2026-04-13  
 **Category:** environment  
 **Tags:** `claude`, `claude-code`, `cli`, `install`, `npm`  
-**Related:** [environment/Node-260413a.md](../environment/Node-260413a.md)
+**Related:** [Node](../environment/Node-260413a.md)
 
 ---
 

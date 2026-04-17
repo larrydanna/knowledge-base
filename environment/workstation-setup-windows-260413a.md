@@ -3,7 +3,7 @@
 **Date:** 2026-04-13  
 **Category:** environment  
 **Tags:** `windows`, `setup`, `onboarding`, `winget`, `dotnet`, `vscode`  
-**Related:** [git-via-winget-260413a.md](git-via-winget-260413a.md) · [wsl-260413a.md](wsl-260413a.md) · [Node-260413a.md](Node-260413a.md) · [claude-cli-install-260413a.md](claude-cli-install-260413a.md)
+**Related:** [Install Git](git-via-winget-260413a.md) · [WSL](wsl-260413a.md) · [Node](Node-260413a.md) · [Install Claude Code CLI](claude-cli-install-260413a.md)
 
 > **Living document** — add tools as they come up. The order below reflects dependencies: install phases in sequence, but within a phase order is flexible.
 

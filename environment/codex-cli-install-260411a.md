@@ -3,7 +3,7 @@
 **Date:** 2026-04-11  
 **Category:** environment  
 **Tags:** `codex`, `openai`, `cli`, `install`, `npm`, `windows`  
-**Related:** [claude-cli-install-260413a.md](claude-cli-install-260413a.md)
+**Related:** [Install Claude Code CLI](claude-cli-install-260413a.md)
 
 ---
 

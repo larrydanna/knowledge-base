@@ -3,7 +3,7 @@
 **Date:** 2026-04-13  
 **Category:** environment  
 **Tags:** `setup`, `onboarding`, `windows`, `ubuntu`, `macos`, `cross-platform`  
-**Related:** [workstation-setup-windows-260413a.md](workstation-setup-windows-260413a.md) · [workstation-setup-ubuntu-260413a.md](workstation-setup-ubuntu-260413a.md) · [workstation-setup-macos-260413a.md](workstation-setup-macos-260413a.md)
+**Related:** [Workstation Setup — Windows 10 / 11](workstation-setup-windows-260413a.md) · [Workstation Setup — Ubuntu (Linux)](workstation-setup-ubuntu-260413a.md) · [Workstation Setup — macOS](workstation-setup-macos-260413a.md)
 
 > **Living document.** This is the starting point for any new dev workstation. Pick your OS and follow its article — this guide covers the common toolset, install philosophy, and cross-platform notes.
 
@@ -22,9 +22,9 @@
 
 | OS | Article |
 |----|---------|
-| Windows 10 / 11 | [workstation-setup-windows-260413a.md](workstation-setup-windows-260413a.md) |
-| Ubuntu / Linux | [workstation-setup-ubuntu-260413a.md](workstation-setup-ubuntu-260413a.md) |
-| macOS | [workstation-setup-macos-260413a.md](workstation-setup-macos-260413a.md) |
+| Windows 10 / 11 | [Workstation Setup — Windows 10 / 11](workstation-setup-windows-260413a.md) |
+| Ubuntu / Linux | [Workstation Setup — Ubuntu (Linux)](workstation-setup-ubuntu-260413a.md) |
+| macOS | [Workstation Setup — macOS](workstation-setup-macos-260413a.md) |
 
 ---
 

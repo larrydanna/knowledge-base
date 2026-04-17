@@ -3,7 +3,7 @@
 **Date:** 2026-04-11  
 **Category:** environment  
 **Tags:** `vscode`, `settings`, `ui`, `explorer`, `tree-view`  
-**Related:** [vscode-keyboard-shortcuts-260413a.md](vscode-keyboard-shortcuts-260413a.md)
+**Related:** [VSCode Keyboard Shortcuts — Workflow Reference](vscode-keyboard-shortcuts-260413a.md)
 
 ---
 

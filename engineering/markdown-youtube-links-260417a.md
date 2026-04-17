@@ -3,7 +3,7 @@
 **Date:** 2026-04-17  
 **Category:** engineering  
 **Tags:** `markdown`, `youtube`, `github`, `gfm`, `embeds`, `formatting`  
-**Related:** [markdown-github-alerts-260411a.md](markdown-github-alerts-260411a.md), [markdown-file-links-260411a.md](markdown-file-links-260411a.md)
+**Related:** [GitHub Flavored Markdown Alerts](markdown-github-alerts-260411a.md), [Linking Files in Markdown](markdown-file-links-260411a.md)
 
 ---
 
@@ -114,6 +114,9 @@ John Candy stars in this John Hughes comedy as an idle, good-natured bachelor wh
 
 **Step 1:** Toss popcorn in the microwave...
 
+**Step 2:** Smile.
+
+```
 Where do you live?
 The city. 
 
@@ -155,7 +158,7 @@ You have more hair on your nose than Dad.
 Nice of you to notice. 
 
 I'm a kid. That's my job.
-
+```
 
 ---
 

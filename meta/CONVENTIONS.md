@@ -43,7 +43,7 @@ Every knowledge base entry follows this structure:
 **Date:** YYYY-MM-DD  
 **Category:** environment | engineering  
 **Tags:** `tag1`, `tag2`, `tag3`  
-**Related:** [other-entry.md](../path/other-entry.md)
+**Related:** [Article Title Here](../path/other-entry.md)
 
 ---
 
@@ -77,6 +77,7 @@ Use fenced code blocks for all commands:
 - The **TL;DR section is mandatory** — it should be self-contained enough for an AI to extract the key insight without reading the full body
 - **Tags** should be 2–6 lowercase single-word or hyphenated terms
 - **Related** links are optional but encouraged when entries cover adjacent topics
+- **Use article titles in link text**, not file names — e.g., `[GitHub Alerts](path.md)` not `[markdown-alerts-260411a.md](path.md)`
 - Keep entries **focused on one topic** — create a new file rather than expanding an existing one into multiple topics
 - Prefer **imperative headings** for procedures (e.g., `## Install via winget`) and **noun headings** for reference (e.g., `## Common Post-Install Tips`)
 

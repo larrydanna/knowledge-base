@@ -3,7 +3,7 @@
 **Date:** 2026-04-11  
 **Category:** engineering  
 **Tags:** `gemini`, `cli`, `workflow`, `customization`  
-**Related:** [gemini-cli-install-260411a.md](../environment/gemini-cli-install-260411a.md)
+**Related:** [Install Gemini CLI](../environment/gemini-cli-install-260411a.md)
 
 ---
 

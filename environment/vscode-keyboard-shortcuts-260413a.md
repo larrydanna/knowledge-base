@@ -3,7 +3,7 @@
 **Date:** 2026-04-13  
 **Category:** environment  
 **Tags:** `vscode`, `keyboard`, `shortcuts`, `productivity`, `workflow`  
-**Related:** [vscode-markdown-preview-default-260413a.md](vscode-markdown-preview-default-260413a.md) · [workstation-setup-windows-260413a.md](workstation-setup-windows-260413a.md)
+**Related:** [VSCode: Set Markdown Preview as Default](vscode-markdown-preview-default-260413a.md) · [Workstation Setup — Windows 10 / 11](workstation-setup-windows-260413a.md)
 
 > **Living document.** Focused on UI and workflow control — the things that reduce reaching for the mouse.  
 > All shortcuts listed for **Windows**. On **macOS**, substitute `Ctrl` → `⌘ Cmd` and `Alt` → `⌥ Option` unless noted otherwise.  
