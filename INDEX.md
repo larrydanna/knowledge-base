@@ -32,6 +32,7 @@
 | [engineering/vercel-labs-260414a.md](engineering/vercel-labs-260414a.md) | 2026-04-14 | `vercel`, `ai`, `frontend`, `open-source`, `web-frameworks` | Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.js), founders, and mission |
 | [engineering/cloudflare-partykit-260414a.md](engineering/cloudflare-partykit-260414a.md) | 2026-04-14 | `cloudflare`, `partykit`, `realtime`, `websockets`, `durable-objects` | What PartyKit is, how it maps to Cloudflare Durable Objects, and a safe starter pattern for adding realtime features to a personal website |
 | [engineering/gstack-office-hours-skill-260417a.md](engineering/gstack-office-hours-skill-260417a.md) | 2026-04-17 | `gstack`, `ai-workflows`, `product-thinking`, `yc`, `claude-skills`, `office-hours` | GStack's Office Hours skill: YC-style brainstorming with six forcing questions, anti-sycophancy rules, and universal AI workflow design patterns |
+| [engineering/markdown-youtube-links-260417a.md](engineering/markdown-youtube-links-260417a.md) | 2026-04-17 | `markdown`, `youtube`, `github`, `gfm`, `embeds`, `formatting` | How to embed YouTube videos in Markdown using clickable thumbnails with GitHub alert callouts |
 | [engineering/gemini-cli-first-run-260411a.md](engineering/gemini-cli-first-run-260411a.md) | 2026-04-11 | `gemini`, `cli`, `workflow`, `customization` | Gemini CLI first run experience, GEMINI.md customization, and workspace context setup |
 | [engineering/markdown-file-links-260411a.md](engineering/markdown-file-links-260411a.md) | 2026-04-11 | `markdown`, `github`, `links`, `documentation` | How to link files in Markdown using relative paths and section anchors for GitHub compatibility |
 | [engineering/markdown-github-alerts-260411a.md](engineering/markdown-github-alerts-260411a.md) | 2026-04-11 | `markdown`, `github`, `gfm`, `alerts`, `formatting` | GitHub Flavored Markdown alert syntax: NOTE, TIP, IMPORTANT, WARNING, CAUTION, plus other highlighting techniques |
@@ -41,6 +42,6 @@
 
 ## Stats
 
-- Total entries: 22
-- Categories: environment (14), engineering (8)
+- Total entries: 23
+- Categories: environment (14), engineering (9)
 - Last updated: 2026-04-17
