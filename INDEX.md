@@ -42,6 +42,14 @@ Comprehensive VSCode keyboard shortcut reference: panels, navigation, multi-curs
 How to set Markdown preview as the default view for .md files in VSCode  
 `vscode` `markdown` `preview` `settings` `editor` · 2026-04-13
 
+### [Windows 11 Remote Desktop Access](environment/windows-remote-desktop-260420a.md)
+Enable and configure Remote Desktop on Windows 11: setup, user management, network configuration, troubleshooting, and security best practices  
+`windows` `remote-desktop` `rdp` `networking` `access` · 2026-04-20
+
+### [Windows 11 IoT Enterprise LTSC in Hyper-V](environment/windows-11-iot-enterprise-ltsc-hyper-v-260420a.md)
+Download the official Windows 11 IoT Enterprise LTSC eval ISO, create a Hyper-V dev VM, and capture a reusable gold image for fast clones  
+`windows` `hyper-v` `iot` `ltsc` `virtualization` `vm` · 2026-04-20
+
 ### [Workstation Setup — macOS](environment/workstation-setup-macos-260413a.md)
 Phased install order for a new macOS dev workstation (Homebrew, Git, VS Code, Node, .NET, Azure, Docker, AI tools)  
 `macos` `setup` `onboarding` `homebrew` `dotnet` `vscode` · 2026-04-13
@@ -106,5 +114,5 @@ Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.
 
 ## Stats
 
-**23 entries** — environment (14) · engineering (9)  
-Last updated: 2026-04-17
+**25 entries** — environment (16) · engineering (9)  
+Last updated: 2026-04-20
