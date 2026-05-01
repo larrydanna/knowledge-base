@@ -122,6 +122,10 @@ How first principles reasoning builds engineering discipline: distinguishing rea
 What "mental model" means in AI-assistant language, how developers should interpret it, and how to use the concept to get better results  
 `ai` `llm` `prompting` `context` `reasoning` `developer-workflow` · 2026-04-20
 
+### [Spec-Driven Development](engineering/spec-driven-development-260501a.md)
+Spec-Driven Development essentials: writing specs before implementation, API-first with OpenAPI, BDD scenarios, property-based specs, contract testing, and common failure modes  
+`spec-driven` `tdd` `bdd` `api-first` `design` `testing` `workflow` · 2026-05-01
+
 ### [Who is Vercel Labs](engineering/vercel-labs-260414a.md)
 Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.js), founders, and mission  
 `vercel` `ai` `frontend` `open-source` `web-frameworks` · 2026-04-14
@@ -130,5 +134,5 @@ Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.
 
 ## Stats
 
-**29 entries** — environment (16) · engineering (13)  
+**30 entries** — environment (16) · engineering (14)  
 Last updated: 2026-05-01
