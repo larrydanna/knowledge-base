@@ -110,6 +110,10 @@ Microsoft Playwright overview: cross-browser E2E testing framework with auto-wai
 What PartyKit is, how it maps to Cloudflare Durable Objects, and a safe starter pattern for adding realtime features to a personal website  
 `cloudflare` `partykit` `realtime` `websockets` `durable-objects` · 2026-04-14
 
+### [Quantum Computing Basics](engineering/quantum-computing-basics-260501a.md)
+Low-level introduction to qubits, gates, circuits, interference, entanglement, and measurement using concrete software-friendly mental models  
+`quantum` `qubits` `circuits` `measurement` `computing` · 2026-05-01
+
 ### [First Principles Thinking in Software Engineering](engineering/first-principles-260422a.md)
 How first principles reasoning builds engineering discipline: distinguishing real constraints from convention, debugging to root cause, and designing from the problem rather than borrowed patterns  
 `first-principles` `engineering-discipline` `design` `architecture` `philosophy` · 2026-04-22
@@ -126,5 +130,5 @@ Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.
 
 ## Stats
 
-**28 entries** — environment (16) · engineering (12)  
+**29 entries** — environment (16) · engineering (13)  
 Last updated: 2026-05-01
