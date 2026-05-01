@@ -98,6 +98,10 @@ How to link files in Markdown using relative paths and section anchors for GitHu
 How to make a GitHub repository public while keeping direct changes limited to your own account  
 `github` `repository` `visibility` `permissions` `branch-protection` · 2026-04-14
 
+### [MCP Basics on Windows with C#](engineering/mcp-basics-windows-csharp-260501a.md)
+Model Context Protocol fundamentals, Windows setup, and a minimal C# stdio server wired into VS Code or Visual Studio  
+`mcp` `windows` `csharp` `dotnet` `copilot` · 2026-05-01
+
 ### [Microsoft Playwright](engineering/microsoft-playwright-260411a.md)
 Microsoft Playwright overview: cross-browser E2E testing framework with auto-waiting, isolation, Codegen, Trace Viewer, and Azure cloud scaling  
 `playwright` `testing` `automation` `e2e` `microsoft` `browsers` · 2026-04-11
@@ -122,5 +126,5 @@ Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.
 
 ## Stats
 
-**27 entries** — environment (16) · engineering (11)  
-Last updated: 2026-04-22
+**28 entries** — environment (16) · engineering (12)  
+Last updated: 2026-05-01
