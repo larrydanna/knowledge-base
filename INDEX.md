@@ -106,6 +106,10 @@ Model Context Protocol fundamentals, Windows setup, and a minimal C# stdio serve
 Microsoft Playwright overview: cross-browser E2E testing framework with auto-waiting, isolation, Codegen, Trace Viewer, and Azure cloud scaling  
 `playwright` `testing` `automation` `e2e` `microsoft` `browsers` · 2026-04-11
 
+### [Progressive Web Apps (PWA)](engineering/progressive-web-apps-260503a.md)
+PWA fundamentals: timeline, user benefits (offline, no install friction, auto-updates), and a practical guide to when PWA beats native  
+`pwa` `web` `mobile` `performance` `offline` · 2026-05-03
+
 ### [PartyKit on Cloudflare for a Personal Website](engineering/cloudflare-partykit-260414a.md)
 What PartyKit is, how it maps to Cloudflare Durable Objects, and a safe starter pattern for adding realtime features to a personal website  
 `cloudflare` `partykit` `realtime` `websockets` `durable-objects` · 2026-04-14
@@ -134,5 +138,5 @@ Who is Vercel Labs: Vercel's R&D arm, key projects (v0, AI SDK, Turborepo, Next.
 
 ## Stats
 
-**30 entries** — environment (16) · engineering (14)  
-Last updated: 2026-05-01
+**31 entries** — environment (16) · engineering (15)  
+Last updated: 2026-05-03
